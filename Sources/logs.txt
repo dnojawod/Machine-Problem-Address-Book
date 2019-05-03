@@ -1,0 +1,518 @@
+ERROR: Invalid field! - INPUT: cec - VIEW(SEARCH) Sat Jan 26 09:01:26 PST 2019
+ERROR: Contact not existing! - INPUT: wefc - VIEW(SEARCH) Sat Jan 26 09:01:29 PST 2019
+ERROR: Batch file does not exist! - INPUT: rv - LOAD Sat Jan 26 09:01:34 PST 2019
+ERROR: Some contacts doesn't meet required fields! - INPUT: Sample:Sample:Sample - LOAD Sat Jan 26 09:01:42 PST 2019
+ERROR: Contact Frances Olegario Jawod already existing! - Frances:Olegario:Jawod:F:01/15/1996:09253011596:Filipino:QC:Taguig - LOAD Sat Jan 26 09:01:42 PST 2019
+ERROR: Contact Janischel Olegario Jawod already existing! - Janischel:Olegario:Jawod:F:04/01/2008:09228835616:Filipino:QC:Taguig - LOAD Sat Jan 26 09:01:42 PST 2019
+ERROR: Contact Danielle Olegario Jawod already existing! - Danielle:Olegario:Jawod:F:04/19/1998:09228835616:Filipino:QC:Taguig - LOAD Sat Jan 26 09:01:42 PST 2019
+ERROR: Gender of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 09:01:42 PST 2019
+ERROR: Birth Date of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 09:01:42 PST 2019
+ERROR: Mobile Number of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 09:01:42 PST 2019
+ERROR: Nationality of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 09:01:42 PST 2019
+ERROR: Birth Place of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 09:01:42 PST 2019
+ERROR: Address of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 09:01:42 PST 2019
+RESULT: No valid contacts from batch file have been loaded! - LOAD Sat Jan 26 09:01:42 PST 2019
+RESULT: Contact not deleted! - Danielle:Olegario:Jawod:F:04/19/1998:09228835616:Filipino:QC:Taguig - DELETE Sat Jan 26 09:07:05 PST 2019
+ERROR: Invalid Middle Name! Numbers and special characters not allowed - INPUT: sxs1 - DELETE Sat Jan 26 09:07:15 PST 2019
+ERROR: Invalid Middle Name! Numbers and special characters not allowed - INPUT: 1 - DELETE Sat Jan 26 09:07:16 PST 2019
+ERROR: Invalid First Name! Numbers and special characters not allowed - INPUT: 2 - DELETE Sat Jan 26 09:09:42 PST 2019
+RESULT: Contact not deleted! - Danielle:Olegario:Jawod:F:04/19/1998:09228835616:Filipino:QC:Taguig - DELETE Sat Jan 26 09:09:51 PST 2019
+RESULT: Contact not deleted! -  - DELETE Sat Jan 26 09:10:03 PST 2019
+ERROR: Contact not existing! - INPUT: cevce:wfwef:wef - DELETE Sat Jan 26 09:11:10 PST 2019
+ERROR: Contact not existing! - INPUT: sd:de:ddew - DELETE Sat Jan 26 09:11:18 PST 2019
+ERROR: Invalid Last Name! Numbers and special characters not allowed - INPUT: 123@ - ADD Sat Jan 26 09:22:46 PST 2019
+ERROR: Invalid Last Name! Numbers and special characters not allowed - INPUT: 123@ - ADD Sat Jan 26 09:24:02 PST 2019
+ERROR: Invalid day! Should between 01-30 - INPUT: 35 - ADD Sat Jan 26 09:24:16 PST 2019
+ERROR: Contact already existing! - INPUT: Danielle:Olegario:Jawod - ADD Sat Jan 26 09:24:43 PST 2019
+ERROR: Invalid Last Name! Numbers and special characters not allowed - INPUT: 123@ - ADD Sat Jan 26 09:26:14 PST 2019
+ERROR: Invalid day! Should between 01-30 - INPUT: 35 - ADD Sat Jan 26 09:26:20 PST 2019
+ERROR: Mobile Number is null! - INPUT:  - ADD Sat Jan 26 09:26:26 PST 2019
+ERROR: Contact already existing! - INPUT: Danielle:Olegario:Jawod - ADD Sat Jan 26 09:27:15 PST 2019
+ERROR: Invalid Last Name! Numbers and special characters not allowed - INPUT: 123@ - EDIT Sat Jan 26 09:28:11 PST 2019
+ERROR: Contact not existing! - INPUT: Danielle:Nicole:Jawod -  EDIT Sat Jan 26 09:28:48 PST 2019
+ERROR: Invalid Last Name! Numbers and special characters not allowed - INPUT: 123@ - EDIT Sat Jan 26 09:29:25 PST 2019
+ERROR: Invalid Last Name! Numbers and special characters not allowed - INPUT: 1[A - EDIT Sat Jan 26 09:30:35 PST 2019
+ERROR: Invalid Last Name! Numbers and special characters not allowed - INPUT: 123@ - EDIT Sat Jan 26 09:30:47 PST 2019
+RESULT: First Name of contact successfully edited! - d:Olegario:Jawod:F:04/18/1998:09228835616:Filipino:Quezon city:Taguig city - EDIT Sat Jan 26 09:32:44 PST 2019
+RESULT: First Name of contact successfully edited! - Danielle Nicole:Olegario:Jawod:F:04/18/1998:09228835616:Filipino:Quezon city:Taguig city - EDIT Sat Jan 26 09:33:00 PST 2019
+ERROR: Invalid First Name! Numbers and special characters not allowed - INPUT: 123 - EDIT Sat Jan 26 09:33:14 PST 2019
+RESULT: First Name of contact successfully edited! - Danielle Nicole:Olegario:Jawod:F:04/18/1998:09228835616:Filipino:Quezon city:Taguig city - EDIT Sat Jan 26 09:33:20 PST 2019
+RESULT: First Name of contact successfully edited! - Dane Nicole:Olegario:Jawod:F:04/18/1998:09228835616:Filipino:Quezon city:Taguig city - EDIT Sat Jan 26 09:34:17 PST 2019
+RESULT: First Name of contact successfully edited! - Danielle Nicole:Olegario:Jawod:F:04/18/1998:09228835616:Filipino:Quezon city:Taguig city - EDIT Sat Jan 26 09:34:48 PST 2019
+ERROR: Invalid First Name! Numbers and special characters not allowed - INPUT: 123 - EDIT Sat Jan 26 09:46:41 PST 2019
+RESULT: First Name of contact successfully edited! - Dane Nicole:Olegario:Jawod:F:04/18/1998:09228835616:Filipino:Quezon city:Taguig city - EDIT Sat Jan 26 09:46:45 PST 2019
+RESULT: Contacts not deleted! -  - DELETE Sat Jan 26 09:54:27 PST 2019
+ERROR: Last Name is null! - INPUT:  - DELETE Sat Jan 26 09:55:57 PST 2019
+RESULT: Contact not deleted! - Dane Nicole:Olegario:Jawod:F:04/18/1998:09228835616:Filipino:Quezon city:Taguig city - DELETE Sat Jan 26 09:57:02 PST 2019
+RESULT: Contact not deleted! - Dane Nicole:Olegario:Jawod:F:04/18/1998:09228835616:Filipino:Quezon city:Taguig city - DELETE Sat Jan 26 10:00:18 PST 2019
+RESULT: New contact has been successfully added to address book! - INPUT: Josiah:Olegario:Jawod - ADD Sat Jan 26 10:04:39 PST 2019
+RESULT: New contact has been successfully added to address book! - INPUT: Danielle Nicole:Olegario:Jawod - ADD Sat Jan 26 10:06:06 PST 2019
+ERROR: Contact already existing! - INPUT: Danielle Nicole:Olegario:Jawod - ADD Sat Jan 26 10:06:50 PST 2019
+ERROR: Contact already existing! - INPUT: Danielle Nicole:Olegario:Jawod - ADD Sat Jan 26 10:07:37 PST 2019
+ERROR: Invalid Last Name! Numbers and special characters not allowed - INPUT: 123@ - ADD Sat Jan 26 10:08:03 PST 2019
+ERROR: Invalid day! Should between 01-30 - INPUT: 35 - ADD Sat Jan 26 10:08:08 PST 2019
+ERROR: Contact already existing! - INPUT: Danielle Nicole:Olegario:Jawod - ADD Sat Jan 26 10:08:47 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sat Jan 26 10:11:31 PST 2019
+ERROR: Invalid field! - INPUT: a - VIEW(SEARCH) Sat Jan 26 10:13:03 PST 2019
+ERROR: Invalid field! - INPUT: a - VIEW(SEARCH) Sat Jan 26 10:13:19 PST 2019
+ERROR: Batch file does not exist! - INPUT: /home/unixuser/batchfile.txt - LOAD Sat Jan 26 10:20:43 PST 2019
+ERROR: Some contacts doesn't meet required fields! - INPUT: Sample:Sample:Sample - LOAD Sat Jan 26 10:21:42 PST 2019
+ERROR: Contact Frances Olegario Jawod already existing! - Frances:Olegario:Jawod:F:01/15/1996:09253011596:Filipino:QC:Taguig - LOAD Sat Jan 26 10:21:42 PST 2019
+ERROR: Contact Janischel Olegario Jawod already existing! - Janischel:Olegario:Jawod:F:04/01/2008:09228835616:Filipino:QC:Taguig - LOAD Sat Jan 26 10:21:42 PST 2019
+ERROR: Contact Danielle Olegario Jawod already existing! - Danielle:Olegario:Jawod:F:04/19/1998:09228835616:Filipino:QC:Taguig - LOAD Sat Jan 26 10:21:42 PST 2019
+ERROR: Gender of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 10:21:42 PST 2019
+ERROR: Birth Date of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 10:21:42 PST 2019
+ERROR: Mobile Number of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 10:21:42 PST 2019
+ERROR: Nationality of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 10:21:42 PST 2019
+ERROR: Birth Place of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 10:21:42 PST 2019
+ERROR: Address of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 10:21:42 PST 2019
+RESULT: No valid contacts from batch file have been loaded! - LOAD Sat Jan 26 10:21:42 PST 2019
+ERROR: Some contacts doesn't meet required fields! - INPUT: Sample:Sample:Sample - LOAD Sat Jan 26 10:23:37 PST 2019
+ERROR: Contact Frances Olegario Jawod already existing! - Frances:Olegario:Jawod:F:01/15/1996:09253011596:Filipino:QC:Taguig - LOAD Sat Jan 26 10:23:37 PST 2019
+ERROR: Contact Janischel Olegario Jawod already existing! - Janischel:Olegario:Jawod:F:04/01/2008:09228835616:Filipino:QC:Taguig - LOAD Sat Jan 26 10:23:37 PST 2019
+ERROR: Contact Danielle Olegario Jawod already existing! - Danielle:Olegario:Jawod:F:04/19/1998:09228835616:Filipino:QC:Taguig - LOAD Sat Jan 26 10:23:37 PST 2019
+ERROR: Gender of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 10:23:37 PST 2019
+ERROR: Birth Date of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 10:23:37 PST 2019
+ERROR: Mobile Number of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 10:23:37 PST 2019
+ERROR: Nationality of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 10:23:37 PST 2019
+ERROR: Birth Place of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 10:23:37 PST 2019
+ERROR: Address of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 10:23:37 PST 2019
+RESULT: No valid contacts from batch file have been loaded! - LOAD Sat Jan 26 10:23:37 PST 2019
+ERROR: Batch file does not exist! - INPUT: fcwe - LOAD Sat Jan 26 22:57:37 PST 2019
+ERROR: Some contacts doesn't meet required fields! - INPUT: Sample:Sample:Sample - LOAD Sat Jan 26 22:58:16 PST 2019
+ERROR: Contact Frances Olegario Jawod already existing! - Frances:Olegario:Jawod:F:01/15/1996:09253011596:Filipino:QC:Taguig - LOAD Sat Jan 26 22:58:16 PST 2019
+ERROR: Contact Janischel Olegario Jawod already existing! - Janischel:Olegario:Jawod:F:04/01/2008:09228835616:Filipino:QC:Taguig - LOAD Sat Jan 26 22:58:16 PST 2019
+ERROR: Contact Danielle Olegario Jawod already existing! - Danielle:Olegario:Jawod:F:04/19/1998:09228835616:Filipino:QC:Taguig - LOAD Sat Jan 26 22:58:16 PST 2019
+ERROR: Gender of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 22:58:16 PST 2019
+ERROR: Birth Date of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 22:58:16 PST 2019
+ERROR: Mobile Number of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 22:58:16 PST 2019
+ERROR: Nationality of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 22:58:16 PST 2019
+ERROR: Birth Place of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 22:58:16 PST 2019
+ERROR: Address of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 22:58:16 PST 2019
+RESULT: No valid contacts from batch file have been loaded! - LOAD Sat Jan 26 22:58:16 PST 2019
+ERROR: Some contacts doesn't meet required fields! - INPUT: Sample:Sample:Sample - LOAD Sat Jan 26 22:59:40 PST 2019
+ERROR: Contact Frances Olegario Jawod already existing! - Frances:Olegario:Jawod:F:01/15/1996:09253011596:Filipino:QC:Taguig - LOAD Sat Jan 26 22:59:40 PST 2019
+ERROR: Contact Janischel Olegario Jawod already existing! - Janischel:Olegario:Jawod:F:04/01/2008:09228835616:Filipino:QC:Taguig - LOAD Sat Jan 26 22:59:40 PST 2019
+ERROR: Contact Danielle Olegario Jawod already existing! - Danielle:Olegario:Jawod:F:04/19/1998:09228835616:Filipino:QC:Taguig - LOAD Sat Jan 26 22:59:40 PST 2019
+ERROR: Gender of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 22:59:40 PST 2019
+ERROR: Birth Date of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 22:59:40 PST 2019
+ERROR: Mobile Number of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 22:59:40 PST 2019
+ERROR: Nationality of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 22:59:40 PST 2019
+ERROR: Birth Place of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 22:59:40 PST 2019
+ERROR: Address of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 22:59:40 PST 2019
+RESULT: No valid contacts from batch file have been loaded! - LOAD Sat Jan 26 22:59:40 PST 2019
+ERROR: Some contacts doesn't meet required fields! - INPUT: Sample:Sample:Sample:04// - LOAD Sat Jan 26 23:02:30 PST 2019
+ERROR: Invalid Gender! - INPUT: Danielle - LOAD Sat Jan 26 23:02:30 PST 2019
+ERROR: Contact Nicole Olegario Jawod already existing! - Nicole:Olegario:Jawod:F:04/19/1998:09228835616:Filipino:Quezon - LOAD Sat Jan 26 23:02:30 PST 2019
+ERROR: Last Name of city Taguig  is null! - INPUT:  - LOAD Sat Jan 26 23:02:30 PST 2019
+ERROR: Gender of city Taguig  is null! - INPUT:  - LOAD Sat Jan 26 23:02:30 PST 2019
+ERROR: Birth Date of city Taguig  is null! - INPUT:  - LOAD Sat Jan 26 23:02:30 PST 2019
+ERROR: Mobile Number of city Taguig  is null! - INPUT:  - LOAD Sat Jan 26 23:02:30 PST 2019
+ERROR: Nationality of city Taguig  is null! - INPUT:  - LOAD Sat Jan 26 23:02:30 PST 2019
+ERROR: Birth Place of city Taguig  is null! - INPUT:  - LOAD Sat Jan 26 23:02:30 PST 2019
+ERROR: Address of city Taguig  is null! - INPUT:  - LOAD Sat Jan 26 23:02:30 PST 2019
+ERROR: Invalid Gender! - INPUT: city - LOAD Sat Jan 26 23:02:30 PST 2019
+ERROR: Invalid Gender! - INPUT: Arryll - LOAD Sat Jan 26 23:02:30 PST 2019
+ERROR: Contact Mori Natividad Antolin already existing! - Mori:Natividad:Antolin:M:06/12/1997:09222222222:Filipino:Bulacan:Bulacan - LOAD Sat Jan 26 23:02:30 PST 2019
+ERROR: Invalid Gender! - INPUT: 04// - LOAD Sat Jan 26 23:02:30 PST 2019
+ERROR: Birth Date of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 23:02:30 PST 2019
+ERROR: Mobile Number of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 23:02:30 PST 2019
+ERROR: Nationality of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 23:02:30 PST 2019
+ERROR: Birth Place of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 23:02:30 PST 2019
+ERROR: Address of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 23:02:30 PST 2019
+RESULT: No valid contacts from batch file have been loaded! - LOAD Sat Jan 26 23:02:30 PST 2019
+ERROR: Some contacts doesn't meet required fields! - INPUT: Sample:Sample:Sample - LOAD Sat Jan 26 23:06:54 PST 2019
+ERROR: Contact Danielle Olegario Jawod already existing! - Danielle:Olegario:Jawod:F:04/19/1998:09228835616:Filipino:QC:Taguig - LOAD Sat Jan 26 23:06:55 PST 2019
+ERROR: Gender of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 23:06:55 PST 2019
+ERROR: Birth Date of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 23:06:55 PST 2019
+ERROR: Mobile Number of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 23:06:55 PST 2019
+ERROR: Nationality of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 23:06:55 PST 2019
+ERROR: Birth Place of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 23:06:55 PST 2019
+ERROR: Address of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 23:06:55 PST 2019
+RESULT: Valid contacts from batch file have been loaded! - LOAD Sat Jan 26 23:06:55 PST 2019
+ERROR: Some contacts doesn't meet required fields! - INPUT: Sample:Sample:Sample:04// - LOAD Sat Jan 26 23:12:08 PST 2019
+ERROR: Invalid Gender! - INPUT: Danielle - LOAD Sat Jan 26 23:12:08 PST 2019
+ERROR: Contact Nicole Olegario Jawod already existing! - Nicole:Olegario:Jawod:F:04/19/1998:09228835616:Filipino:Quezon - LOAD Sat Jan 26 23:12:08 PST 2019
+ERROR: Last Name of city Taguig  is null! - INPUT:  - LOAD Sat Jan 26 23:12:08 PST 2019
+ERROR: Gender of city Taguig  is null! - INPUT:  - LOAD Sat Jan 26 23:12:08 PST 2019
+ERROR: Birth Date of city Taguig  is null! - INPUT:  - LOAD Sat Jan 26 23:12:08 PST 2019
+ERROR: Mobile Number of city Taguig  is null! - INPUT:  - LOAD Sat Jan 26 23:12:08 PST 2019
+ERROR: Nationality of city Taguig  is null! - INPUT:  - LOAD Sat Jan 26 23:12:08 PST 2019
+ERROR: Birth Place of city Taguig  is null! - INPUT:  - LOAD Sat Jan 26 23:12:08 PST 2019
+ERROR: Address of city Taguig  is null! - INPUT:  - LOAD Sat Jan 26 23:12:08 PST 2019
+ERROR: Invalid Gender! - INPUT: city - LOAD Sat Jan 26 23:12:08 PST 2019
+ERROR: Invalid Gender! - INPUT: Arryll - LOAD Sat Jan 26 23:12:08 PST 2019
+ERROR: Contact Mori Natividad Antolin already existing! - Mori:Natividad:Antolin:M:06/12/1997:09222222222:Filipino:Bulacan:Bulacan - LOAD Sat Jan 26 23:12:08 PST 2019
+ERROR: Invalid Gender! - INPUT: 04// - LOAD Sat Jan 26 23:12:08 PST 2019
+ERROR: Birth Date of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 23:12:08 PST 2019
+ERROR: Mobile Number of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 23:12:08 PST 2019
+ERROR: Nationality of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 23:12:08 PST 2019
+ERROR: Birth Place of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 23:12:08 PST 2019
+ERROR: Address of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 23:12:08 PST 2019
+RESULT: No valid contacts from batch file have been loaded! - LOAD Sat Jan 26 23:12:08 PST 2019
+ERROR: Some contacts doesn't meet required fields! - INPUT: Sample:Sample:Sample:04// - LOAD Sat Jan 26 23:25:27 PST 2019
+ERROR: First Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:25:27 PST 2019
+ERROR: Middle Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:25:27 PST 2019
+ERROR: Last Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:25:27 PST 2019
+ERROR: Gender of    is null! - INPUT:  - LOAD Sat Jan 26 23:25:27 PST 2019
+ERROR: Birth Date of    is null! - INPUT:  - LOAD Sat Jan 26 23:25:27 PST 2019
+ERROR: Mobile Number of    is null! - INPUT:  - LOAD Sat Jan 26 23:25:27 PST 2019
+ERROR: Nationality of    is null! - INPUT:  - LOAD Sat Jan 26 23:25:27 PST 2019
+ERROR: Birth Place of    is null! - INPUT:  - LOAD Sat Jan 26 23:25:27 PST 2019
+ERROR: Address of    is null! - INPUT:  - LOAD Sat Jan 26 23:25:27 PST 2019
+ERROR: First Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:25:27 PST 2019
+ERROR: Middle Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:25:27 PST 2019
+ERROR: Last Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:25:27 PST 2019
+ERROR: Gender of    is null! - INPUT:  - LOAD Sat Jan 26 23:25:27 PST 2019
+ERROR: Birth Date of    is null! - INPUT:  - LOAD Sat Jan 26 23:25:27 PST 2019
+ERROR: Mobile Number of    is null! - INPUT:  - LOAD Sat Jan 26 23:25:27 PST 2019
+ERROR: Nationality of    is null! - INPUT:  - LOAD Sat Jan 26 23:25:27 PST 2019
+ERROR: Birth Place of    is null! - INPUT:  - LOAD Sat Jan 26 23:25:27 PST 2019
+ERROR: Address of    is null! - INPUT:  - LOAD Sat Jan 26 23:25:27 PST 2019
+ERROR: First Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:25:27 PST 2019
+ERROR: Middle Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:25:27 PST 2019
+ERROR: Last Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:25:27 PST 2019
+ERROR: Gender of    is null! - INPUT:  - LOAD Sat Jan 26 23:25:27 PST 2019
+ERROR: Birth Date of    is null! - INPUT:  - LOAD Sat Jan 26 23:25:27 PST 2019
+ERROR: Mobile Number of    is null! - INPUT:  - LOAD Sat Jan 26 23:25:27 PST 2019
+ERROR: Nationality of    is null! - INPUT:  - LOAD Sat Jan 26 23:25:27 PST 2019
+ERROR: Birth Place of    is null! - INPUT:  - LOAD Sat Jan 26 23:25:27 PST 2019
+ERROR: Address of    is null! - INPUT:  - LOAD Sat Jan 26 23:25:27 PST 2019
+RESULT: No valid contacts from batch file have been loaded! - LOAD Sat Jan 26 23:25:27 PST 2019
+ERROR: Some contacts doesn't meet required fields! - INPUT: Sample:Sample:Sample:04// - LOAD Sat Jan 26 23:27:20 PST 2019
+ERROR: First Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:27:20 PST 2019
+ERROR: Middle Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:27:20 PST 2019
+ERROR: Last Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:27:20 PST 2019
+ERROR: Gender of    is null! - INPUT:  - LOAD Sat Jan 26 23:27:20 PST 2019
+ERROR: Birth Date of    is null! - INPUT:  - LOAD Sat Jan 26 23:27:20 PST 2019
+ERROR: Mobile Number of    is null! - INPUT:  - LOAD Sat Jan 26 23:27:20 PST 2019
+ERROR: Nationality of    is null! - INPUT:  - LOAD Sat Jan 26 23:27:20 PST 2019
+ERROR: Birth Place of    is null! - INPUT:  - LOAD Sat Jan 26 23:27:20 PST 2019
+ERROR: Address of    is null! - INPUT:  - LOAD Sat Jan 26 23:27:20 PST 2019
+ERROR: First Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:27:20 PST 2019
+ERROR: Middle Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:27:20 PST 2019
+ERROR: Last Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:27:20 PST 2019
+ERROR: Gender of    is null! - INPUT:  - LOAD Sat Jan 26 23:27:20 PST 2019
+ERROR: Birth Date of    is null! - INPUT:  - LOAD Sat Jan 26 23:27:20 PST 2019
+ERROR: Mobile Number of    is null! - INPUT:  - LOAD Sat Jan 26 23:27:20 PST 2019
+ERROR: Nationality of    is null! - INPUT:  - LOAD Sat Jan 26 23:27:20 PST 2019
+ERROR: Birth Place of    is null! - INPUT:  - LOAD Sat Jan 26 23:27:20 PST 2019
+ERROR: Address of    is null! - INPUT:  - LOAD Sat Jan 26 23:27:20 PST 2019
+ERROR: First Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:27:20 PST 2019
+ERROR: Middle Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:27:20 PST 2019
+ERROR: Last Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:27:20 PST 2019
+ERROR: Gender of    is null! - INPUT:  - LOAD Sat Jan 26 23:27:20 PST 2019
+ERROR: Birth Date of    is null! - INPUT:  - LOAD Sat Jan 26 23:27:20 PST 2019
+ERROR: Mobile Number of    is null! - INPUT:  - LOAD Sat Jan 26 23:27:20 PST 2019
+ERROR: Nationality of    is null! - INPUT:  - LOAD Sat Jan 26 23:27:20 PST 2019
+ERROR: Birth Place of    is null! - INPUT:  - LOAD Sat Jan 26 23:27:20 PST 2019
+ERROR: Address of    is null! - INPUT:  - LOAD Sat Jan 26 23:27:20 PST 2019
+RESULT: No valid contacts from batch file have been loaded! - LOAD Sat Jan 26 23:27:20 PST 2019
+ERROR: Some contacts doesn't meet required fields! - INPUT: Sample:Sample:Sample:04// - LOAD Sat Jan 26 23:29:55 PST 2019
+ERROR: First Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:29:55 PST 2019
+ERROR: Middle Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:29:55 PST 2019
+ERROR: Last Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:29:55 PST 2019
+ERROR: Gender of    is null! - INPUT:  - LOAD Sat Jan 26 23:29:55 PST 2019
+ERROR: Birth Date of    is null! - INPUT:  - LOAD Sat Jan 26 23:29:55 PST 2019
+ERROR: Mobile Number of    is null! - INPUT:  - LOAD Sat Jan 26 23:29:55 PST 2019
+ERROR: Nationality of    is null! - INPUT:  - LOAD Sat Jan 26 23:29:55 PST 2019
+ERROR: Birth Place of    is null! - INPUT:  - LOAD Sat Jan 26 23:29:55 PST 2019
+ERROR: Address of    is null! - INPUT:  - LOAD Sat Jan 26 23:29:55 PST 2019
+ERROR: First Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:29:55 PST 2019
+ERROR: Middle Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:29:55 PST 2019
+ERROR: Last Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:29:55 PST 2019
+ERROR: Gender of    is null! - INPUT:  - LOAD Sat Jan 26 23:29:55 PST 2019
+ERROR: Birth Date of    is null! - INPUT:  - LOAD Sat Jan 26 23:29:55 PST 2019
+ERROR: Mobile Number of    is null! - INPUT:  - LOAD Sat Jan 26 23:29:55 PST 2019
+ERROR: Nationality of    is null! - INPUT:  - LOAD Sat Jan 26 23:29:55 PST 2019
+ERROR: Birth Place of    is null! - INPUT:  - LOAD Sat Jan 26 23:29:55 PST 2019
+ERROR: Address of    is null! - INPUT:  - LOAD Sat Jan 26 23:29:55 PST 2019
+ERROR: First Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:29:55 PST 2019
+ERROR: Middle Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:29:55 PST 2019
+ERROR: Last Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:29:55 PST 2019
+ERROR: Gender of    is null! - INPUT:  - LOAD Sat Jan 26 23:29:55 PST 2019
+ERROR: Birth Date of    is null! - INPUT:  - LOAD Sat Jan 26 23:29:55 PST 2019
+ERROR: Mobile Number of    is null! - INPUT:  - LOAD Sat Jan 26 23:29:55 PST 2019
+ERROR: Nationality of    is null! - INPUT:  - LOAD Sat Jan 26 23:29:55 PST 2019
+ERROR: Birth Place of    is null! - INPUT:  - LOAD Sat Jan 26 23:29:55 PST 2019
+ERROR: Address of    is null! - INPUT:  - LOAD Sat Jan 26 23:29:55 PST 2019
+RESULT: No valid contacts from batch file have been loaded! - LOAD Sat Jan 26 23:29:55 PST 2019
+ERROR: Some contacts doesn't meet required fields! - INPUT: Sample:Sample:Sample:04// - LOAD Sat Jan 26 23:31:05 PST 2019
+ERROR: First Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:31:05 PST 2019
+ERROR: Middle Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:31:05 PST 2019
+ERROR: Last Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:31:05 PST 2019
+ERROR: Gender of    is null! - INPUT:  - LOAD Sat Jan 26 23:31:05 PST 2019
+ERROR: Birth Date of    is null! - INPUT:  - LOAD Sat Jan 26 23:31:05 PST 2019
+ERROR: Mobile Number of    is null! - INPUT:  - LOAD Sat Jan 26 23:31:05 PST 2019
+ERROR: Nationality of    is null! - INPUT:  - LOAD Sat Jan 26 23:31:05 PST 2019
+ERROR: Birth Place of    is null! - INPUT:  - LOAD Sat Jan 26 23:31:05 PST 2019
+ERROR: Address of    is null! - INPUT:  - LOAD Sat Jan 26 23:31:05 PST 2019
+ERROR: First Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:31:05 PST 2019
+ERROR: Middle Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:31:05 PST 2019
+ERROR: Last Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:31:05 PST 2019
+ERROR: Gender of    is null! - INPUT:  - LOAD Sat Jan 26 23:31:05 PST 2019
+ERROR: Birth Date of    is null! - INPUT:  - LOAD Sat Jan 26 23:31:05 PST 2019
+ERROR: Mobile Number of    is null! - INPUT:  - LOAD Sat Jan 26 23:31:05 PST 2019
+ERROR: Nationality of    is null! - INPUT:  - LOAD Sat Jan 26 23:31:05 PST 2019
+ERROR: Birth Place of    is null! - INPUT:  - LOAD Sat Jan 26 23:31:05 PST 2019
+ERROR: Address of    is null! - INPUT:  - LOAD Sat Jan 26 23:31:05 PST 2019
+ERROR: First Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:31:05 PST 2019
+ERROR: Middle Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:31:05 PST 2019
+ERROR: Last Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:31:05 PST 2019
+ERROR: Gender of    is null! - INPUT:  - LOAD Sat Jan 26 23:31:05 PST 2019
+ERROR: Birth Date of    is null! - INPUT:  - LOAD Sat Jan 26 23:31:05 PST 2019
+ERROR: Mobile Number of    is null! - INPUT:  - LOAD Sat Jan 26 23:31:05 PST 2019
+ERROR: Nationality of    is null! - INPUT:  - LOAD Sat Jan 26 23:31:05 PST 2019
+ERROR: Birth Place of    is null! - INPUT:  - LOAD Sat Jan 26 23:31:05 PST 2019
+ERROR: Address of    is null! - INPUT:  - LOAD Sat Jan 26 23:31:05 PST 2019
+RESULT: No valid contacts from batch file have been loaded! - LOAD Sat Jan 26 23:31:05 PST 2019
+ERROR: Some contacts doesn't meet required fields! - INPUT: Sample:Sample:Sample:04// - LOAD Sat Jan 26 23:33:20 PST 2019
+ERROR: First Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:33:20 PST 2019
+ERROR: Middle Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:33:20 PST 2019
+ERROR: Last Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:33:20 PST 2019
+ERROR: Gender of    is null! - INPUT:  - LOAD Sat Jan 26 23:33:20 PST 2019
+ERROR: Birth Date of    is null! - INPUT:  - LOAD Sat Jan 26 23:33:20 PST 2019
+ERROR: Mobile Number of    is null! - INPUT:  - LOAD Sat Jan 26 23:33:20 PST 2019
+ERROR: Nationality of    is null! - INPUT:  - LOAD Sat Jan 26 23:33:20 PST 2019
+ERROR: Birth Place of    is null! - INPUT:  - LOAD Sat Jan 26 23:33:20 PST 2019
+ERROR: Address of    is null! - INPUT:  - LOAD Sat Jan 26 23:33:20 PST 2019
+ERROR: First Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:33:20 PST 2019
+ERROR: Middle Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:33:20 PST 2019
+ERROR: Last Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:33:20 PST 2019
+ERROR: Gender of    is null! - INPUT:  - LOAD Sat Jan 26 23:33:20 PST 2019
+ERROR: Birth Date of    is null! - INPUT:  - LOAD Sat Jan 26 23:33:20 PST 2019
+ERROR: Mobile Number of    is null! - INPUT:  - LOAD Sat Jan 26 23:33:20 PST 2019
+ERROR: Nationality of    is null! - INPUT:  - LOAD Sat Jan 26 23:33:20 PST 2019
+ERROR: Birth Place of    is null! - INPUT:  - LOAD Sat Jan 26 23:33:20 PST 2019
+ERROR: Address of    is null! - INPUT:  - LOAD Sat Jan 26 23:33:20 PST 2019
+ERROR: First Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:33:20 PST 2019
+ERROR: Middle Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:33:20 PST 2019
+ERROR: Last Name of    is null! - INPUT:  - LOAD Sat Jan 26 23:33:20 PST 2019
+ERROR: Gender of    is null! - INPUT:  - LOAD Sat Jan 26 23:33:20 PST 2019
+ERROR: Birth Date of    is null! - INPUT:  - LOAD Sat Jan 26 23:33:20 PST 2019
+ERROR: Mobile Number of    is null! - INPUT:  - LOAD Sat Jan 26 23:33:20 PST 2019
+ERROR: Nationality of    is null! - INPUT:  - LOAD Sat Jan 26 23:33:20 PST 2019
+ERROR: Birth Place of    is null! - INPUT:  - LOAD Sat Jan 26 23:33:20 PST 2019
+ERROR: Address of    is null! - INPUT:  - LOAD Sat Jan 26 23:33:20 PST 2019
+RESULT: No valid contacts from batch file have been loaded! - LOAD Sat Jan 26 23:33:20 PST 2019
+ERROR: Some contacts doesn't meet required fields! - INPUT: Sample:Sample:Sample:04// - LOAD Sat Jan 26 23:35:57 PST 2019
+ERROR: Contact Arryll Mori Natividad Antolin already existing! - Danielle - LOAD Sat Jan 26 23:35:57 PST 2019
+ERROR: Invalid Gender! - INPUT: 04// - LOAD Sat Jan 26 23:35:57 PST 2019
+ERROR: Birth Date of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 23:35:57 PST 2019
+ERROR: Mobile Number of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 23:35:57 PST 2019
+ERROR: Nationality of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 23:35:57 PST 2019
+ERROR: Birth Place of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 23:35:57 PST 2019
+ERROR: Address of Sample Sample Sample is null! - INPUT:  - LOAD Sat Jan 26 23:35:57 PST 2019
+RESULT: Valid contacts from batch file have been loaded! - LOAD Sat Jan 26 23:35:57 PST 2019
+ERROR: Some contacts doesn't meet required fields! - INPUT: Sample:Sample:123 - LOAD Sat Jan 26 23:43:07 PST 2019
+ERROR: Contact Arryll Mori Natividad Antolin already existing! - Danielle - LOAD Sat Jan 26 23:43:07 PST 2019
+ERROR: Invalid Last Name of Sample Sample 123! Numbers and special characters not allowed - INPUT: 123 - LOAD Sat Jan 26 23:43:08 PST 2019
+ERROR: Gender of Sample Sample 123 is null! - INPUT:  - LOAD Sat Jan 26 23:43:08 PST 2019
+ERROR: Birth Date of Sample Sample 123 is null! - INPUT:  - LOAD Sat Jan 26 23:43:08 PST 2019
+ERROR: Mobile Number of Sample Sample 123 is null! - INPUT:  - LOAD Sat Jan 26 23:43:08 PST 2019
+ERROR: Nationality of Sample Sample 123 is null! - INPUT:  - LOAD Sat Jan 26 23:43:08 PST 2019
+ERROR: Birth Place of Sample Sample 123 is null! - INPUT:  - LOAD Sat Jan 26 23:43:08 PST 2019
+ERROR: Address of Sample Sample 123 is null! - INPUT:  - LOAD Sat Jan 26 23:43:08 PST 2019
+RESULT: Valid contacts from batch file have been loaded! - LOAD Sat Jan 26 23:43:08 PST 2019
+ERROR: Some contacts doesn't meet required fields! - INPUT: Sample:Sample:123 - LOAD Sat Jan 26 23:43:51 PST 2019
+ERROR: Contact Arryll Mori Natividad Antolin already existing! - Danielle - LOAD Sat Jan 26 23:43:51 PST 2019
+ERROR: Invalid Last Name of Sample Sample 123! Numbers and special characters not allowed - INPUT: 123 - LOAD Sat Jan 26 23:43:51 PST 2019
+ERROR: Gender of Sample Sample 123 is null! - INPUT:  - LOAD Sat Jan 26 23:43:51 PST 2019
+ERROR: Birth Date of Sample Sample 123 is null! - INPUT:  - LOAD Sat Jan 26 23:43:51 PST 2019
+ERROR: Mobile Number of Sample Sample 123 is null! - INPUT:  - LOAD Sat Jan 26 23:43:51 PST 2019
+ERROR: Nationality of Sample Sample 123 is null! - INPUT:  - LOAD Sat Jan 26 23:43:51 PST 2019
+ERROR: Birth Place of Sample Sample 123 is null! - INPUT:  - LOAD Sat Jan 26 23:43:51 PST 2019
+ERROR: Address of Sample Sample 123 is null! - INPUT:  - LOAD Sat Jan 26 23:43:51 PST 2019
+RESULT: Valid contacts from batch file have been loaded! - LOAD Sat Jan 26 23:43:51 PST 2019
+ERROR: Some contacts doesn't meet required fields! - INPUT: Sample:Sample:123 - LOAD Sat Jan 26 23:45:38 PST 2019
+ERROR: Contact Arryll Mori Natividad Antolin already existing! - Danielle - LOAD Sat Jan 26 23:45:38 PST 2019
+ERROR: Invalid Last Name of Sample Sample 123! Numbers and special characters not allowed - INPUT: 123 - LOAD Sat Jan 26 23:45:39 PST 2019
+ERROR: Gender of Sample Sample 123 is null! - INPUT:  - LOAD Sat Jan 26 23:45:39 PST 2019
+ERROR: Birth Date of Sample Sample 123 is null! - INPUT:  - LOAD Sat Jan 26 23:45:39 PST 2019
+ERROR: Mobile Number of Sample Sample 123 is null! - INPUT:  - LOAD Sat Jan 26 23:45:39 PST 2019
+ERROR: Nationality of Sample Sample 123 is null! - INPUT:  - LOAD Sat Jan 26 23:45:39 PST 2019
+ERROR: Birth Place of Sample Sample 123 is null! - INPUT:  - LOAD Sat Jan 26 23:45:39 PST 2019
+ERROR: Address of Sample Sample 123 is null! - INPUT:  - LOAD Sat Jan 26 23:45:39 PST 2019
+RESULT: Valid contacts from batch file have been loaded! - LOAD Sat Jan 26 23:45:39 PST 2019
+ERROR: Some contacts doesn't meet required fields! - INPUT: Sample:Sample:123 - LOAD Sat Jan 26 23:45:53 PST 2019
+ERROR: Contact Danielle Nicole Olegario Jawod already existing! - Danielle - LOAD Sat Jan 26 23:45:53 PST 2019
+ERROR: Contact Arryll Mori Natividad Antolin already existing! - Danielle - LOAD Sat Jan 26 23:45:53 PST 2019
+ERROR: Invalid Last Name of Sample Sample 123! Numbers and special characters not allowed - INPUT: 123 - LOAD Sat Jan 26 23:45:54 PST 2019
+ERROR: Gender of Sample Sample 123 is null! - INPUT:  - LOAD Sat Jan 26 23:45:54 PST 2019
+ERROR: Birth Date of Sample Sample 123 is null! - INPUT:  - LOAD Sat Jan 26 23:45:54 PST 2019
+ERROR: Mobile Number of Sample Sample 123 is null! - INPUT:  - LOAD Sat Jan 26 23:45:54 PST 2019
+ERROR: Nationality of Sample Sample 123 is null! - INPUT:  - LOAD Sat Jan 26 23:45:54 PST 2019
+ERROR: Birth Place of Sample Sample 123 is null! - INPUT:  - LOAD Sat Jan 26 23:45:54 PST 2019
+ERROR: Address of Sample Sample 123 is null! - INPUT:  - LOAD Sat Jan 26 23:45:54 PST 2019
+RESULT: No valid contacts from batch file have been loaded! - LOAD Sat Jan 26 23:45:54 PST 2019
+ERROR: Some contacts doesn't meet required fields! - INPUT: Sample:Sample:123:M:06/12/1997: :Filipino:Bulacan - LOAD Sat Jan 26 23:47:10 PST 2019
+ERROR: Contact Danielle Nicole Olegario Jawod already existing! - Danielle - LOAD Sat Jan 26 23:47:10 PST 2019
+ERROR: Contact Arryll Mori Natividad Antolin already existing! - Danielle - LOAD Sat Jan 26 23:47:10 PST 2019
+ERROR: Invalid Last Name of Sample Sample 123! Numbers and special characters not allowed - INPUT: 123 - LOAD Sat Jan 26 23:47:11 PST 2019
+ERROR: Mobile Number of Sample Sample 123 is null! - INPUT:   - LOAD Sat Jan 26 23:47:11 PST 2019
+ERROR: Address of Sample Sample 123 is null! - INPUT:  - LOAD Sat Jan 26 23:47:11 PST 2019
+RESULT: No valid contacts from batch file have been loaded! - LOAD Sat Jan 26 23:47:11 PST 2019
+ERROR: Some contacts doesn't meet required fields! - INPUT: Sample:Sample:123:M:06/12/1997: :Filipino:Bulacan - LOAD Sat Jan 26 23:47:43 PST 2019
+ERROR: Contact Arryll Mori Natividad Antolin already existing! - Danielle - LOAD Sat Jan 26 23:47:44 PST 2019
+ERROR: Invalid Last Name of Sample Sample 123! Numbers and special characters not allowed - INPUT: 123 - LOAD Sat Jan 26 23:47:44 PST 2019
+ERROR: Mobile Number of Sample Sample 123 is null! - INPUT:   - LOAD Sat Jan 26 23:47:44 PST 2019
+ERROR: Address of Sample Sample 123 is null! - INPUT:  - LOAD Sat Jan 26 23:47:44 PST 2019
+RESULT: Valid contacts from batch file have been loaded! - LOAD Sat Jan 26 23:47:44 PST 2019
+ERROR: Contact already existing! - INPUT: Danielle Nicole:Olegario:Jawod - ADD Sat Jan 26 23:52:12 PST 2019
+ERROR: Invalid day! Should between 01-30 - INPUT: 37 - ADD Sat Jan 26 23:52:34 PST 2019
+RESULT: New contact has been successfully added to address book! - INPUT: echo Josiah Jabez:Olegario:Jawod:M:04/25/2002:09228835616:Filipino:Quezon city:Taguig city - ADD Sat Jan 26 23:52:53 PST 2019
+ERROR: Invalid Last Name! Numbers and special characters not allowed - INPUT: 123@ - ADD Sun Jan 27 00:04:32 PST 2019
+ERROR: Invalid day! Should between 01-30 - INPUT: 35 - ADD Sun Jan 27 00:04:59 PST 2019
+ERROR: Contact already existing! - INPUT: Danielle Nicole:Olegario:Jawod - ADD Sun Jan 27 00:10:05 PST 2019
+ERROR: Contact already existing! - INPUT: Danielle Nicole:Olegario:Jawod - ADD Sun Jan 27 00:11:01 PST 2019
+ERROR: Invalid field! - INPUT: a - EDIT Sun Jan 27 00:19:16 PST 2019
+ERROR: Invalid field! - INPUT: a - EDIT Sun Jan 27 00:24:05 PST 2019
+ERROR: Invalid field! - INPUT: a - EDIT Sun Jan 27 00:32:33 PST 2019
+ERROR: Invalid field! - INPUT: a - EDIT Sun Jan 27 00:37:27 PST 2019
+ERROR: Invalid field! - INPUT: a - EDIT Sun Jan 27 00:37:53 PST 2019
+ERROR: Invalid field! - INPUT: a - EDIT Sun Jan 27 00:37:55 PST 2019
+ERROR: Invalid field! - INPUT: a - EDIT Sun Jan 27 00:40:42 PST 2019
+ERROR: Contact Danielle Olegario Jawod already existing! - grep -w Danielle:Olegario:Jawod addbook.txt - EDIT Sun Jan 27 00:40:46 PST 2019
+ERROR: Contact Danielle Olegario Jawod already existing! - grep -w Danielle:Olegario:Jawod addbook.txt - EDIT Sun Jan 27 00:43:21 PST 2019
+ERROR: Contact Danielle Nicole Olegario Jawod already existing! - grep -w Danielle Nicole:Olegario:Jawod addbook.txt - EDIT Sun Jan 27 00:43:53 PST 2019
+ERROR: Middle Name is null! - INPUT:  - EDIT Sun Jan 27 00:45:26 PST 2019
+ERROR: Contact Danielle Nicole Olegario Jawod already existing! - grep -w Danielle Nicole:Olegario:Jawod addbook.txt - EDIT Sun Jan 27 00:45:35 PST 2019
+ERROR: Invalid First Name! Numbers and special characters not allowed - INPUT: 123@ - EDIT Sun Jan 27 00:47:07 PST 2019
+ERROR: Contact Dane Nicole Olegario Jawod already existing! - grep -w Dane Nicole:Olegario:Jawod addbook.txt - EDIT Sun Jan 27 00:47:12 PST 2019
+ERROR: Contact Dane Nicole Olegario Jawod already existing! - grep -w Dane Nicole:Olegario:Jawod addbook.txt - EDIT Sun Jan 27 00:47:57 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 00:48:25 PST 2019
+RESULT: First Name of contact successfully edited! - Dane Nicole:Olegario:Jawod:F:04/19/1998:09228835616:Filipino:Quezon city:Taguig city - EDIT Sun Jan 27 00:51:53 PST 2019
+RESULT: Contacts not deleted! -  - DELETE Sun Jan 27 01:01:34 PST 2019
+ERROR: Contact not existing! - INPUT: ferf:rfef:rfref - DELETE Sun Jan 27 01:20:57 PST 2019
+ERROR: Contact not existing! - INPUT: fwefw:wefwef:fwe - DELETE Sun Jan 27 01:21:04 PST 2019
+RESULT: Contacts not deleted! -  - DELETE Sun Jan 27 01:21:10 PST 2019
+RESULT: Contacts not deleted! -  - DELETE Sun Jan 27 01:22:31 PST 2019
+ERROR: Invalid Last Name! Numbers and special characters not allowed - INPUT: 123@ - DELETE Sun Jan 27 01:23:12 PST 2019
+RESULT: Contact not deleted! - Dane Nicole:Olegario:Jawod:F:04/19/1998:09228835616:Filipino:Quezon city:Taguig city - DELETE Sun Jan 27 01:24:05 PST 2019
+ERROR: Contact not existing! - INPUT: dsf:edfw:wef - DELETE Sun Jan 27 01:24:29 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 01:38:53 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 01:39:00 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 01:39:06 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 01:39:43 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 01:40:17 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 01:40:23 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 01:40:27 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 01:40:43 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 01:40:53 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 01:43:20 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 02:00:26 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 02:02:13 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 02:12:45 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 02:13:06 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 02:16:38 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 02:16:54 PST 2019
+ERROR: Invalid field! - INPUT: a - VIEW(SEARCH) Sun Jan 27 02:17:37 PST 2019
+ERROR: Invalid field! - INPUT: a - VIEW(SORT) Sun Jan 27 02:17:42 PST 2019
+ERROR: Invalid field! - INPUT: a - VIEW(SORT) Sun Jan 27 02:17:53 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 02:20:58 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 02:21:00 PST 2019
+ERROR: Invalid field! - INPUT: a - VIEW(SORT) Sun Jan 27 02:21:08 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 02:22:34 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 02:22:38 PST 2019
+ERROR: Invalid field! - INPUT: a - VIEW(SORT) Sun Jan 27 02:22:46 PST 2019
+ERROR: Invalid field! - INPUT: a - VIEW(SEARCH) Sun Jan 27 02:33:19 PST 2019
+ERROR: Invalid Last Name! Numbers and special characters not allowed - INPUT: 123@ - VIEW(SEARCH) Sun Jan 27 02:36:55 PST 2019
+RESULT: Contacts searched by Last Name Jawod! - INPUT: Last Name Jawod - VIEW(SEARCH) Sun Jan 27 02:49:22 PST 2019
+ERROR: Batch file does not exist! - INPUT: blahblah - LOAD Sun Jan 27 02:50:05 PST 2019
+ERROR: Batch file does not exist! - INPUT: blahblah - LOAD Sun Jan 27 02:51:13 PST 2019
+ERROR: Batch file does not exist! - INPUT: kjdnf - LOAD Sun Jan 27 02:51:50 PST 2019
+ERROR: Some contacts doesn't meet required fields! - INPUT: Sample:Sample:123:M:06/12/1997: :Filipino:Bulacan - LOAD Sun Jan 27 02:52:33 PST 2019
+ERROR: Contact Arryll Mori Natividad Antolin already existing! - Danielle - LOAD Sun Jan 27 02:52:33 PST 2019
+ERROR: Invalid Last Name of Sample Sample 123! Numbers and special characters not allowed - INPUT: 123 - LOAD Sun Jan 27 02:52:33 PST 2019
+ERROR: Mobile Number of Sample Sample 123 is null! - INPUT:   - LOAD Sun Jan 27 02:52:33 PST 2019
+ERROR: Address of Sample Sample 123 is null! - INPUT:  - LOAD Sun Jan 27 02:52:33 PST 2019
+RESULT: Valid contacts from batch file have been loaded! - LOAD Sun Jan 27 02:52:33 PST 2019
+ERROR: Some contacts doesn't meet required fields! - INPUT: Sample:Sample:123:M:06/12/1997: :Filipino:Bulacan - LOAD Sun Jan 27 02:53:04 PST 2019
+ERROR: Contact Danielle Nicole Olegario Jawod already existing! - Danielle - LOAD Sun Jan 27 02:53:04 PST 2019
+ERROR: Contact Arryll Mori Natividad Antolin already existing! - Danielle - LOAD Sun Jan 27 02:53:04 PST 2019
+ERROR: Invalid Last Name of Sample Sample 123! Numbers and special characters not allowed - INPUT: 123 - LOAD Sun Jan 27 02:53:05 PST 2019
+ERROR: Mobile Number of Sample Sample 123 is null! - INPUT:   - LOAD Sun Jan 27 02:53:05 PST 2019
+ERROR: Address of Sample Sample 123 is null! - INPUT:  - LOAD Sun Jan 27 02:53:05 PST 2019
+RESULT: No valid contacts from batch file have been loaded! - LOAD Sun Jan 27 02:53:05 PST 2019
+ERROR: Some contacts doesn't meet required fields! - INPUT: Sample:Sample:123:M:06/12/1997: :Filipino:Bulacan - LOAD Sun Jan 27 02:53:20 PST 2019
+ERROR: Contact Danielle Nicole Olegario Jawod already existing! - Danielle - LOAD Sun Jan 27 02:53:20 PST 2019
+ERROR: Contact Arryll Mori Natividad Antolin already existing! - Danielle - LOAD Sun Jan 27 02:53:20 PST 2019
+ERROR: Invalid Last Name of Sample Sample 123! Numbers and special characters not allowed - INPUT: 123 - LOAD Sun Jan 27 02:53:20 PST 2019
+ERROR: Mobile Number of Sample Sample 123 is null! - INPUT:   - LOAD Sun Jan 27 02:53:20 PST 2019
+ERROR: Address of Sample Sample 123 is null! - INPUT:  - LOAD Sun Jan 27 02:53:20 PST 2019
+RESULT: No valid contacts from batch file have been loaded! - LOAD Sun Jan 27 02:53:20 PST 2019
+ERROR: Invalid First Name! Numbers and special characters not allowed - INPUT: 1 - EDIT Sun Jan 27 02:59:02 PST 2019
+ERROR: Contact Dane Nicole Olegario Jawod already existing! - grep -w Dane Nicole:Olegario:Jawod addbook.txt - EDIT Sun Jan 27 02:59:31 PST 2019
+ERROR: Contact not existing! - INPUT: Dane Nicole:Olegario:Jawod -  EDIT Sun Jan 27 03:00:24 PST 2019
+ERROR: Contact not existing! - INPUT: Danee Nicole:Olegario:Jawodd -  EDIT Sun Jan 27 03:00:42 PST 2019
+RESULT: First Name of contact successfully edited! - Dane Nicole:Olegario:Jawod:F:04/19/1998:09228835616:Filipino:Quezon city:Taguig city - EDIT Sun Jan 27 03:01:00 PST 2019
+ERROR: Invalid Middle Name! Numbers and special characters not allowed - INPUT: 1 - EDIT Sun Jan 27 03:01:55 PST 2019
+ERROR: Middle Name is null! - INPUT:  - EDIT Sun Jan 27 03:01:57 PST 2019
+ERROR: Contact not existing! - INPUT: a:a:a -  EDIT Sun Jan 27 03:01:58 PST 2019
+ERROR: Contact not existing! - INPUT: ad:cwe:we -  EDIT Sun Jan 27 03:04:32 PST 2019
+ERROR: Contact not existing! - INPUT: dcwd:weeew:we -  EDIT Sun Jan 27 03:05:11 PST 2019
+ERROR: Contact not existing! - INPUT: blah:blah:blah -  EDIT Sun Jan 27 03:05:45 PST 2019
+ERROR: Contact not existing! - INPUT: blah:blah:blah -  EDIT Sun Jan 27 03:06:35 PST 2019
+ERROR: Contact not existing! - INPUT: blah:blah:blah -  EDIT Sun Jan 27 03:06:44 PST 2019
+RESULT: Contacts not deleted! -  - DELETE Sun Jan 27 03:18:57 PST 2019
+ERROR: Contact not existing! - INPUT: blah:blah:blah - DELETE Sun Jan 27 03:19:06 PST 2019
+ERROR: Contact not existing! - INPUT: blah:blah:blah - DELETE Sun Jan 27 03:20:00 PST 2019
+ERROR: Contact not existing! - INPUT: ccwcwe - VIEW(SEARCH) Sun Jan 27 03:24:58 PST 2019
+RESULT: Contacts searched by First Name ccwcwe! - INPUT: First Name ccwcwe - VIEW(SEARCH) Sun Jan 27 03:24:58 PST 2019
+ERROR: Contact not existing! - INPUT: blah - VIEW(SEARCH) Sun Jan 27 03:25:05 PST 2019
+RESULT: Contacts searched by First Name blah! - INPUT: First Name blah - VIEW(SEARCH) Sun Jan 27 03:25:05 PST 2019
+ERROR: Contact not existing! - INPUT: dewdw:ded:dede - DELETE Sun Jan 27 03:30:37 PST 2019
+ERROR: Contact not existing! - INPUT: dcwe:wee:wed -  EDIT Sun Jan 27 03:30:52 PST 2019
+ERROR: Contact not existing! - INPUT: fre:ffver:er -  EDIT Sun Jan 27 03:32:18 PST 2019
+ERROR: Contact not existing! - INPUT: vrv:erver:err - DELETE Sun Jan 27 03:32:24 PST 2019
+ERROR: Contact not existing! - INPUT: fvef:err:vver - DELETE Sun Jan 27 03:34:45 PST 2019
+RESULT: Contact has been deleted! -  - DELETE Sun Jan 27 03:51:34 PST 2019
+RESULT: First Name of contact successfully edited! - Danielle Nicole:Olegario:Jawod:F:04/19/1998:09228835616:Filipino:Quezon city:Taguig city - EDIT Sun Jan 27 03:52:00 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 03:52:47 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 03:53:13 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 04:58:55 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 04:59:18 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 04:59:30 PST 2019
+RESULT: Contacts searched by Last Name Jawod! - INPUT: Last Name Jawod - VIEW(SEARCH) Sun Jan 27 04:59:45 PST 2019
+ERROR: Invalid Last Name! Numbers and special characters not allowed - INPUT: 123@ - ADD Sun Jan 27 06:13:05 PST 2019
+ERROR: Invalid day! Should between 01-30 - INPUT: 35 - ADD Sun Jan 27 06:13:21 PST 2019
+ERROR: Contact already existing! - INPUT: Danielle Nicole:Olegario:Jawod - ADD Sun Jan 27 06:13:42 PST 2019
+RESULT: First Name of contact successfully edited! - Dane Nicole:Olegario:Jawod:F:04/19/1998:09228835616:Filipino:Quezon city:Taguig city - EDIT Sun Jan 27 06:14:41 PST 2019
+RESULT: Contacts not deleted! -  - DELETE Sun Jan 27 06:15:16 PST 2019
+ERROR: Contact not existing! - INPUT: Danielle Nicole:Olegario:Jawod - DELETE Sun Jan 27 06:15:43 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 06:16:13 PST 2019
+RESULT: Contacts searched by Last Name Jawod! - INPUT: Last Name Jawod - VIEW(SEARCH) Sun Jan 27 06:16:37 PST 2019
+ERROR: Some contacts doesn't meet required fields! - INPUT: Sample:Sample:123:M:06/12/1997: :Filipino:Bulacan - LOAD Sun Jan 27 06:17:12 PST 2019
+ERROR: Contact Dane Nicole Olegario Jawod already existing! - Dane - LOAD Sun Jan 27 06:17:12 PST 2019
+ERROR: Contact Arryll Mori Natividad Antolin already existing! - Dane - LOAD Sun Jan 27 06:17:12 PST 2019
+ERROR: Invalid Last Name of Sample Sample 123! Numbers and special characters not allowed - INPUT: 123 - LOAD Sun Jan 27 06:17:12 PST 2019
+ERROR: Mobile Number of Sample Sample 123 is null! - INPUT:   - LOAD Sun Jan 27 06:17:12 PST 2019
+ERROR: Address of Sample Sample 123 is null! - INPUT:  - LOAD Sun Jan 27 06:17:12 PST 2019
+RESULT: No valid contacts from batch file have been loaded! - LOAD Sun Jan 27 06:17:12 PST 2019
+ERROR: Birth Date is null! - INPUT:  - ADD Sun Jan 27 06:19:45 PST 2019
+Mobile Number should have 11 digits! - INPUT: 1 - ADD Sun Jan 27 06:20:00 PST 2019
+RESULT: New contact has been successfully added to address book! - INPUT: echo River:vsdsdvs:vsfsdf:m:04/19/1998:09228835616:fil:ada:dad - ADD Sun Jan 27 06:26:47 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 06:27:17 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 06:27:31 PST 2019
+ERROR: Some contacts doesn't meet required fields! - INPUT: Sample:Sample:123:M:06/12/1997: :Filipino:Bulacan - LOAD Sun Jan 27 06:45:32 PST 2019
+ERROR: Contact Dane Nicole Olegario Jawod already existing! - Dane - LOAD Sun Jan 27 06:45:32 PST 2019
+ERROR: Contact Arryll Mori Natividad Antolin already existing! - Dane - LOAD Sun Jan 27 06:45:32 PST 2019
+ERROR: Invalid Last Name of Sample Sample 123! Numbers and special characters not allowed - INPUT: 123 - LOAD Sun Jan 27 06:45:32 PST 2019
+ERROR: Mobile Number of Sample Sample 123 is null! - INPUT:   - LOAD Sun Jan 27 06:45:32 PST 2019
+ERROR: Address of Sample Sample 123 is null! - INPUT:  - LOAD Sun Jan 27 06:45:32 PST 2019
+RESULT: No valid contacts from batch file have been loaded! - LOAD Sun Jan 27 06:45:32 PST 2019
+ERROR: Some contacts doesn't meet required fields! - INPUT: Sample:Sample:123:M:06/12/1997: :Filipino:Bulacan - LOAD Sun Jan 27 08:00:49 PST 2019
+ERROR: Contact Dane Nicole Olegario Jawod already existing! - Dane - LOAD Sun Jan 27 08:00:49 PST 2019
+ERROR: Contact Arryll Mori Natividad Antolin already existing! - Dane - LOAD Sun Jan 27 08:00:49 PST 2019
+ERROR: Invalid Last Name of Sample Sample 123! Numbers and special characters not allowed - INPUT: 123 - LOAD Sun Jan 27 08:00:49 PST 2019
+ERROR: Mobile Number of Sample Sample 123 is null! - INPUT:   - LOAD Sun Jan 27 08:00:49 PST 2019
+ERROR: Address of Sample Sample 123 is null! - INPUT:  - LOAD Sun Jan 27 08:00:49 PST 2019
+RESULT: No valid contacts from batch file have been loaded! - LOAD Sun Jan 27 08:00:49 PST 2019
+ERROR: Some contacts doesn't meet required fields! - INPUT: Sample:Sample:123:M:06/12/1997: :Filipino:Bulacan - LOAD Sun Jan 27 08:02:57 PST 2019
+ERROR: Contact Dane Nicole Olegario Jawod already existing! - Dane Nicole:Olegario:Jawod:F:04/19/1998:09228835616:Filipino:Quezon city:Taguig city - LOAD Sun Jan 27 08:02:57 PST 2019
+ERROR: Contact Arryll Mori Natividad Antolin already existing! - Arryll Mori:Natividad:Antolin:M:06/12/1997:09222222222:Filipino:Bulacan:Bulacan - LOAD Sun Jan 27 08:02:57 PST 2019
+ERROR: Invalid Last Name of Sample Sample 123! Numbers and special characters not allowed - INPUT: 123 - LOAD Sun Jan 27 08:02:57 PST 2019
+ERROR: Mobile Number of Sample Sample 123 is null! - INPUT:   - LOAD Sun Jan 27 08:02:57 PST 2019
+ERROR: Address of Sample Sample 123 is null! - INPUT:  - LOAD Sun Jan 27 08:02:57 PST 2019
+RESULT: No valid contacts from batch file have been loaded! - LOAD Sun Jan 27 08:02:57 PST 2019
+RESULT: Contacts successfully sorted! - VIEW(SORT) Sun Jan 27 09:44:29 PST 2019

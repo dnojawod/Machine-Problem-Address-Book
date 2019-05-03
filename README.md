@@ -16,7 +16,7 @@ The machine problem is an address book program using bash script programming lan
 3.	Change location of the PATH variable.
 4.	Apply executable permissions on each script files.
 5.	Run the mp.bash file to execute the program.
-See User Manual for detailed instructions of each functions.
+**  See User Manual for detailed instructions of each functions.
 ## Acknowledgements
 This is a machine problem in partial fulfillment of the requirements for the course COE197P, HP Unix Administration 4, under Engr. Vincent Paolo Arellano.
 

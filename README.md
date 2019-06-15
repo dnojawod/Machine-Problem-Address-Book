@@ -19,5 +19,5 @@ The machine problem is an address book program using bash script programming lan
 
 **  See User Manual for detailed instructions of each functions.
 ## Acknowledgements
-This is a machine problem in partial fulfillment of the requirements for the course COE197P, HP Unix Administration 4, under Engr. Vincent Paolo Arellano.
+This is a machine problem in partial fulfillment of the requirements for the course COE197P, HP Unix Administration 4, under Engr. Vincent Paolo Arellano, Mapúa University, Intramuros, Manila, Philippines.
 

@@ -115,7 +115,7 @@ while true; do
         column tmp.txt -t -s ":"
         rm tmp.txt
 	CONTACT=$(echo $FNAME:$MNAME:$LNAME)
-        grep -wq "$CONTACT" $AddBook
+        grep -wq "^$CONTACT$" $AddBook
 	if [ "$?" -eq 0 ]; then
 		echo -e "\nContact already existing!"
 		echo "ERROR: Contact already existing! - INPUT: $CONTACT - ADD $(date)" >> logs.txt
